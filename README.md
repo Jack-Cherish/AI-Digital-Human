@@ -10,6 +10,10 @@
 
 https://www.bilibili.com/video/BV1K94y1k7Bw/
 
+第二期（特定场景GPT）：
+
+https://www.bilibili.com/video/BV1Gw411T7fb
+
 1、图像超分辨率重建
 
 针对人脸修复效果较好的是 CodeFormer，“鲁迅”那期视频，就是使用该技术创建的虚拟人物。
