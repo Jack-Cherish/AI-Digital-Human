@@ -38,6 +38,6 @@ https://github.com/AI-Hobbyist/Genshin_Datasets
 
 2、使用 Renpy 启动器运行游戏。
 
-部署教程，文字稿，今天会发出来，大家可以关注下，视频跪求三连！
+部署教程，文字稿已发，视频跪求三连！
 
 https://www.bilibili.com/video/BV1tc411i7bq
